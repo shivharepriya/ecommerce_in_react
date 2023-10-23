@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*hero css start*/
+.first-section-img .first-section-text {
+	position: relative;
+	top: -10em;
+	/* right: -33px; */
+	text-align: center;
+}
+
+.first-section-img {
+	margin-bottom: 7.6em;
+	margin-left: 1px;
+	height: 90px;
+}
+/*hero css end*/
+
+
+
+/* categories start */
+.cat-item {
+	background-color: #FFFFFF;
+}
+
+/* categories end */
+
+
+
+
+/* hero start */
+.slider-imges{
+	height: 430px;
+}
+.offer-text {
+	position: absolute;
+    bottom: 9em;
+    right: 9em;
+}
+/* hero end */
+
+
+
+
+/* footer start */
+.first-footer {
+	margin-top: 98px;
+	background: black;
+}
+
+.middle-footer {
+	padding: 3rem 1rem 0rem;
+	height: auto;
+}
+
+.footer-email-icon {
+	color: #fff;
+	position: inherit;
+}
+
+/* footer end*/
