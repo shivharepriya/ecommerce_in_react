@@ -4,9 +4,8 @@ import Breadcrumb from './Breadcrumb'
 function Checkout() {
     return (
         <>
-
+            <Breadcrumb />
             
-            <Breadcrumb/>
             {/* Checkout start */}
 
             <div className='container'>
