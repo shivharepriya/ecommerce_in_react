@@ -26,7 +26,7 @@ function ShoppingCart() {
                                     <td className="align-middle"><img src="img/product-1.jpg" alt="" style={{ width: "50px" }} /> Product Name</td>
                                     <td className="align-middle">$150</td>
                                     <td className="align-middle">
-                                        <div className="input-group quantity mx-auto" style={{ width: "100px" }}>
+                                        <div className="input-group mx-auto" style={{ width: "100px" }}>
                                             <div className="input-group-btn">
                                                 <button className="btn btn-sm btn-warning btn-minus" >
                                                     <i className="fa fa-minus"></i>

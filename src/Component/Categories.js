@@ -2,7 +2,7 @@
 function Categories() {
     return (
         <>
-            <div className="container-fluid">
+            <div className="container py-3">
                 <h2 className="text-uppercase">Categories</h2>
                 <div className="row mt-4">
 
